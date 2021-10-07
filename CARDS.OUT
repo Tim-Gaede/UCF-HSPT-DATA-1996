@@ -1,0 +1,30 @@
+Data set 1:
+   Spades:
+   Hearts: 4 8 T J Q K A
+   Diamonds:
+   Clubs: 2 3 4 5 6 7 8 9 T J Q K A
+
+Data set 2:
+   Spades:
+   Hearts: 4 8 T J Q K A
+   Diamonds:
+   Clubs:
+
+Data set 3:
+   Spades: 2 4 5 6 7 8 9 T J Q K A
+   Hearts: 2 3 4 5 6 7 8 9 T Q K A
+   Diamonds: 2 3 4 5 6 7 8 9 T J K A
+   Clubs: 2 3 5 6 7 8 9 T J Q K A
+
+Data set 4:
+   Spades: 2 3 4 5 6 7 8 9 T J Q K A
+   Hearts: 2 3 4 5 6 7 8 9 T J Q K A
+   Diamonds: 2 3 4 5 6 7 8 9 T J Q K A
+   Clubs: 2 3 4 5 6 7 8 9 T J Q K A
+
+Data set 5:
+   Spades:
+   Hearts:
+   Diamonds:
+   Clubs:
+
