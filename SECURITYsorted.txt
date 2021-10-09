@@ -1,0 +1,4 @@
+Grant access to AILab, DataProcessing, DatabaseResearch, Outhouse.
+Grant access to DataProcessing, Outhouse.
+Do not grant access to any areas.
+Grant access to Outhouse.
